@@ -1,0 +1,176 @@
+-----------------------------------------------------------------------------------------
+Version 1.1.8 - January 04, 2025
+-----------------------------------------------------------------------------------------
+
+- UPDATE: WordPress 6.7.x Compatibility
++ UPDATE: CT Core plugin - v1.1.0
++ UPDATE: Slider Revolution plugin - v6.7.25
++ UPDATE: WPBakery Page Builder plugin - v8.1
++ Full Compatibility with Redux Framework 4.5.4
+- Full Compatibility with WooCommerce 9.5.1
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.1.7 - January 09, 2024
+-----------------------------------------------------------------------------------------
+
+- NEW: WordPress 6.4.x Compatibility
++ UPDATE: CT Core plugin - v1.0.9
++ UPDATE: Slider Revolution plugin - v6.6.20
++ UPDATE: WPBakery Page Builder plugin - v7.3
++ Full Compatibility with Redux Framework 4.4.x
+- Full Compatibility with WooCommerce 8.4.x
+
+
+-----------------------------------------------------------------------------------------
+Version 1.1.6 - January 12, 2023
+-----------------------------------------------------------------------------------------
+
+- NEW: WordPress 6.1.x Compatibility
++ UPDATE: WPBakery Page Builder plugin - v6.10.0
++ UPDATE: Slider Revolution plugin - v6.6.8
++ Full Compatibility with Redux Framework 4.3.21
+- Full Compatibility with WooCommerce 7.2.3
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.1.5 - October 08, 2022
+-----------------------------------------------------------------------------------------
+
+- Full Compatibility with Redux Framework 4.3.x
+- Full Compatibility with WooCommerce 6.9.x
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.1.4 - July 25, 2022
+-----------------------------------------------------------------------------------------
+
+- NEW: WordPress 6.0.x Compatibility
++ UPDATE: WPBakery Page Builder plugin - v6.9.0
++ UPDATE: Slider Revolution plugin - v6.5.25
+- Full Compatibility with WooCommerce 6.7.x
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.1.3 - January 26, 2022
+-----------------------------------------------------------------------------------------
+
+- NEW: WordPress 5.9 Compatibility
++ UPDATE: WPBakery Page Builder plugin - v6.8
++ UPDATE: Slider Revolution plugin - v6.5.9
+- Full Compatibility with WooCommerce 6.1.x
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.1.2 - August 05, 2021
+-----------------------------------------------------------------------------------------
+
+- NEW: WordPress 5.8 Compatibility
++ UPDATE: WPBakery Page Builder plugin - v6.7
++ UPDATE: Slider Revolution plugin - v6.5.5
+- Full Compatibility with WooCommerce 5.5.2
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.1.1 - January 25, 2021
+-----------------------------------------------------------------------------------------
+
++ ADDED: 2 Home Onepage
++ UPDATE: WPBakery Page Builder plugin - v6.5.0
++ UPDATE: Slider Revolution plugin - v.6.3.5
+
+
+
+-----------------------------------------------------------------------------------------
+Version 1.1.0 - November 06, 2020
+-----------------------------------------------------------------------------------------
+
++ UPDATE: WPBakery Page Builder plugin - v6.4.1
++ UPDATE: Slider Revolution plugin - v.6.2.23
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.0.9 - April 24, 2020
+-----------------------------------------------------------------------------------------
+
++ UPDATE: WPBakery Page Builder plugin - v6.2.0
++ UPDATE: Slider Revolution plugin - v.6.2.1
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.0.8 - February 12, 2020
+-----------------------------------------------------------------------------------------
+
++ UPDATE: Slider Revolution plugin - v.6.1.8
++ FIXED: Bugs
+
+-----------------------------------------------------------------------------------------
+Version 1.0.7 - January 12, 2020
+-----------------------------------------------------------------------------------------
+
++ UPDATE: WPBakery Page Builder plugin - v6.1
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.0.6 - December 12, 2019
+-----------------------------------------------------------------------------------------
+
++ UPDATE: Slider Revolution plugin - v.6.1.5
++ Fixed Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.0.5 - September 30, 2019
+-----------------------------------------------------------------------------------------
+
++ UPDATE: Slider Revolution plugin - v.6.1.2
++ Fixed Bugs
+
+
+
+-----------------------------------------------------------------------------------------
+Version 1.0.4 - July 26, 2019
+-----------------------------------------------------------------------------------------
+
++ UPDATE: WPBakery Page Builder plugin - v.6.0.5
++ Fixed Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.0.3 - June 15, 2019
+-----------------------------------------------------------------------------------------
+
++ UPDATE: WPBakery Page Builder plugin - v.6.0.3
++ ADDED: Demo Data Files
+
+
+-----------------------------------------------------------------------------------------
+Version 1.0.2 - May 21, 2019
+-----------------------------------------------------------------------------------------
+
++ UPDATE: WPBakery Page Builder plugin - v.6.0.2
++ UPDATE: Slider Revolution plugin - v.5.4.8.3
++ Fixed Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.0.1 - March 20, 2019
+-----------------------------------------------------------------------------------------
+
+- ADDED: Appointment Page
+
+-----------------------------------------------------------------------------------------
+Version 1.0.0 - March 15, 2019
+-----------------------------------------------------------------------------------------
+
+- Initial release
+
